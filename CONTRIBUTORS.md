@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratyush Mishra](https://github.com/styxtheta)
+- Place: Manipal, India
+- Bio: IT undergrad
+- Github: [styxtheta](https://github.com/styxtheta)
